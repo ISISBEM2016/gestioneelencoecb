@@ -15,7 +15,7 @@ public class DBMSControl {
     private final String user = "test";
     private final String password = "test";
 
-    // costruttore vuoto
+    // costruttore vuoto 
     public DBMSControl() {}
     
     public void connetti() {
